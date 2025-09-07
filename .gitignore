@@ -1,11 +1,15 @@
-# logs
+# Logs
 logs/
 *.log
 
-# runtime
+# Runtime files
 *.pid
 *.sock
 
-# editor files
+# Editor files
 .vscode/
 *.swp
+
+# System files
+.DS_Store
+
