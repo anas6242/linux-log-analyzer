@@ -1,0 +1,11 @@
+# logs
+logs/
+*.log
+
+# runtime
+*.pid
+*.sock
+
+# editor files
+.vscode/
+*.swp
